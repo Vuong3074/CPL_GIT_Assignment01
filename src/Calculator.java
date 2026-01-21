@@ -1,23 +1,3 @@
-public class Calculator {
-
-    enum SIGN {
-        PLUS,
-        MINUS,
-        MULTIPLY,
-        DIVIDE
-    }
-
-    public Double calculate(SIGN sign, Double arg1, Double arg2) {
-
-        switch (sign) {
-
-            case PLUS:
-                return arg1 + arg2;
-
-            default:
-                break;
-        }
-
-        return 0d;
-    }
+public static int divide(int a, int b) {
+    return b != 0 ? a / b : 0;
 }
