@@ -1,3 +1,1 @@
-Empty Mobile Project
-Button 1: Click → show message "Xin chào"
-UI updated
+Button: Click → show "Tạm biệt"
