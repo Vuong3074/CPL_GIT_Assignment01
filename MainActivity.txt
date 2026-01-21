@@ -1,2 +1,2 @@
 Empty Mobile Project
-Step 2: Init project
+Button 1: Click → show message "Xin chào"
