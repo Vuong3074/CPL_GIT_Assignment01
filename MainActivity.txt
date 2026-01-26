@@ -1,0 +1,1 @@
+Button: Click → show "Tạm biệt"
